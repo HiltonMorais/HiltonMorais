@@ -10,13 +10,8 @@
         <a href="https://github.com/HiltonMorais" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
         <a href="https://github.com/HiltonMorais" target="_blank"> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="40"/> </a>
         <a href="https://github.com/HiltonMorais" target="_blank"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="visualstudio_code" width="40" height="40"/> </a>
-    </p>
-    <p align="left">
-        <a href="" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg"/> 
-        <a href="" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg"/>
-        <a href="" target="_blank"> <img src="https://www.vectorlogo.zone/logos/instagram/instagram-ar21.svg"/>
-        <a href="https://twitter.com/HiltonMorais4" target="_blank"> <img src="https://www.vectorlogo.zone/logos/twitter/twitter-ar21.svg"/>
-            
+     </p>
+     <p align="left">
         <a href="hilton.o.morais@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/hilton.o.morais@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>  
         <a href="" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> 
         <a href="" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a> 
